@@ -1,0 +1,18 @@
+{
+  "name": "solarcalculatorhub",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Solar Calculator Hub — free solar sizing, cost, ROI and battery calculators for USA, UK, India, Australia, Pakistan and the Philippines.",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fontsource-variable/oswald": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "next": "15.5.27",
+    "react": "19.0.1",
+    "react-dom": "19.0.1"
+  }
+}
